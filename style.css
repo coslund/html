@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+div.head {
+    text-align: center
+}
+
+progress:not([value]){
+    width: 50%;
+    height 20px;
+}
